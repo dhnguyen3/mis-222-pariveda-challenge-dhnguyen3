@@ -14,3 +14,28 @@
 3. **Run the Game**:
    ```bash
    dotnet run
+
+
+**Mac Users**:
+- dotnet add package NAudio
+- Replace the contents of SoundManager.cs with:
+  using NAudio.Wave;
+
+public static class SoundManager
+{
+    private static WaveOutEvent? outputDevice;
+    
+    public static void PlaySong(string songName)
+    {
+        outputDevice?.Stop();
+        var audioFile = new AudioFileReader($"Sounds/{songName}");
+        outputDevice = new WaveOutEvent();
+        outputDevice.Init(audioFile);
+        outputDevice.Play();
+    }
+    
+    public static void StopSong()
+    {
+        outputDevice?.Stop();
+    }
+}
