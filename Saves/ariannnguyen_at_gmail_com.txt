@@ -1,0 +1,2 @@
+Date|Song|Score|MaxCombo
+2025-04-20 18:44:45|Lovesick Girls (P2)|3040|0

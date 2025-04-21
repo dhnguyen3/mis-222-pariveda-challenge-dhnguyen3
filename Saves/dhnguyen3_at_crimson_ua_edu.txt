@@ -1,0 +1,14 @@
+Date|Song|Score|MaxCombo
+2025-04-16 13:37:02|Don't Wanna Cry|1430|0
+2025-04-16 13:42:32|Don't Wanna Cry|5710|23
+2025-04-16 14:46:37|Lovesick Girls|5780|23
+2025-04-18 13:18:33|As If It's Your Last|7890|0
+2025-04-18 13:20:30|Caramelldansen|8810|8
+2025-04-18 14:45:52|Monster|7630|4
+2025-04-18 15:11:28|Two Player - P1|440|0
+2025-04-20 13:51:52|Learn To Meow|7150|26
+2025-04-20 13:53:39|Energetic (P1)|1610|0
+2025-04-20 18:44:45|Lovesick Girls (P1)|4070|14
+2025-04-20 18:47:49|Kizuna no Kiseki|5060|0
+2025-04-20 19:01:52|Just Right|1350|1
+2025-04-21 00:19:55|Kizuna no Kiseki|4690|2

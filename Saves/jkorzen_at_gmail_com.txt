@@ -1,0 +1,4 @@
+Date|Song|Score|MaxCombo
+2025-04-16 16:48:25|Don't Wanna Cry|5190|0
+2025-04-18 15:11:28|Two Player - P2|550|0
+2025-04-20 13:53:39|Energetic (P2)|330|0
